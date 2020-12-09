@@ -6,4 +6,5 @@ https://hr-hip.herokuapp.com/ An Hertzsprung-Russell Diagram exploration app for
 https://skyfield-orbits.herokuapp.com/ A simulation of the solar system with lines showing the cause of retrograde motion.
 
 swshadle@gmail.com
+
 https://www.facebook.com/stephen.shadle.5648/
